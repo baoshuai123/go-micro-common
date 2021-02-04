@@ -1,4 +1,4 @@
-module github.com/baoshuai123/common
+module github.com/baoshuai123/go-micro-common
 
 go 1.15
 
