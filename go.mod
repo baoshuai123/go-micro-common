@@ -1,4 +1,4 @@
-module taobao/common
+module github.com/baoshuai123/common
 
 go 1.15
 
